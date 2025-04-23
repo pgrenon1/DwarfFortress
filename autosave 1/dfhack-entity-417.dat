@@ -1,0 +1,1597 @@
+[
+	{
+		"i" : 
+		[
+			0,
+			-1,
+			1,
+			4,
+			2,
+			4,
+			2
+		],
+		"k" : "autobutcher/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			200,
+			160,
+			0
+		],
+		"k" : "autochop/config"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "autoclothing/config"
+	},
+	{
+		"i" : 
+		[
+			50
+		],
+		"k" : "autofarm/default_threshold"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "autofarm/enabled"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "autonestbox/config"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "autoslab/config"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1,
+			1,
+			1,
+			0,
+			1
+		],
+		"k" : "buildingplan/config"
+	},
+	{
+		"i" : 
+		[
+			34,
+			2,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			0,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			5,
+			0,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			2,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			8,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			2,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			5,
+			4,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			5,
+			1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			14,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			1,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			5,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5;//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			14,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			34,
+			1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			4,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			15,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			6,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			19,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			3,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			54,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			10,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			15,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			53,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			16,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			13,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			13,
+			4,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			51,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			12,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			11,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			52,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			26,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0,
+			0,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"i" : 
+		[
+			34,
+			0,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			19,
+			-1,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/0/0/0|"
+	},
+	{
+		"i" : 
+		[
+			23,
+			0,
+			-1,
+			0
+		],
+		"k" : "buildingplan/filter",
+		"s" : "//0/5/0/5|"
+	},
+	{
+		"k" : "buildingplan/quick-filters",
+		"s" : "[]"
+	},
+	{
+		"k" : "control-panel",
+		"s" : "{\n\t\"autostart_done\": true\n}"
+	},
+	{
+		"k" : "control-panel-repeats",
+		"s" : "{\n\t\"autocheese\": false,\n\t\"automilk\": false,\n\t\"autoshear\": false,\n\t\"cleanowned\": false,\n\t\"cleanowned-nodump\": false,\n\t\"combine\": false,\n\t\"fix/dead-units\": true,\n\t\"fix/dry-buckets\": true,\n\t\"fix/empty-wheelbarrows\": true,\n\t\"fix/engravings\": true,\n\t\"fix/general-strike\": true,\n\t\"fix/noexert-exhaustion\": true,\n\t\"fix/ownership\": true,\n\t\"fix/stuck-instruments\": true,\n\t\"fix/stuck-squad\": true,\n\t\"fix/stuck-worship\": true,\n\t\"fix/wildlife\": false,\n\t\"orders-reevaluate\": false,\n\t\"orders-sort\": false\n}"
+	},
+	{
+		"f" : -102,
+		"k" : "dig/dampdig"
+	},
+	{
+		"f" : -101,
+		"k" : "dig/warmdig"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "dwarfvet/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			0
+		],
+		"k" : "fastdwarf/config"
+	},
+	{
+		"k" : "fix-protect-nicks",
+		"s" : "{\n\t\"enabled\": true\n}"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "infinite-sky/config"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "logistics/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			2
+		],
+		"k" : "misery/config"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "nestboxes/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			10000,
+			100,
+			200000
+		],
+		"k" : "pet-uncapper/config"
+	},
+	{
+		"i" : 
+		[
+			1,
+			1
+		],
+		"k" : "preserve-rooms/config"
+	},
+	{
+		"k" : "preserve-rooms/config/bedroom",
+		"s" : "37/6591/-1,38/6587/-1,57/6586/-1,58/6592/-1,59/6590/-1,60/6605/-1,92/6606/6607,93/6600/-1,94/6604/6603,95/6610/-1,116/6624/-1,117/6625/-1,118/6589/-1,119/6588/-1,120/6609/-1,121/6602/-1,135/6627/-1,153/6623/-1,154/6626/-1,360/1694/1158,361/6622/-1,766/6624/-1"
+	},
+	{
+		"k" : "preserve-rooms/config/dining",
+		"s" : "581/6624/-1,768/6624/-1"
+	},
+	{
+		"k" : "preserve-rooms/config/noble",
+		"s" : "31/MANAGER/1,32/BOOKKEEPER/1,555/MILITIA_COMMANDER/0"
+	},
+	{
+		"k" : "preserve-rooms/config/office",
+		"s" : "31/6586/-1,32/6591/-1,776/6624/-1"
+	},
+	{
+		"k" : "preserve-rooms/config/pending"
+	},
+	{
+		"k" : "preserve-rooms/config/reserved"
+	},
+	{
+		"k" : "preserve-rooms/config/tomb"
+	},
+	{
+		"i" : 
+		[
+			1
+		],
+		"k" : "preserve-tombs/config"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "seedwatch/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			30
+		],
+		"k" : "seedwatch/seed/0"
+	},
+	{
+		"i" : 
+		[
+			1,
+			30
+		],
+		"k" : "seedwatch/seed/1"
+	},
+	{
+		"i" : 
+		[
+			10,
+			30
+		],
+		"k" : "seedwatch/seed/10"
+	},
+	{
+		"i" : 
+		[
+			11,
+			30
+		],
+		"k" : "seedwatch/seed/11"
+	},
+	{
+		"i" : 
+		[
+			12,
+			30
+		],
+		"k" : "seedwatch/seed/12"
+	},
+	{
+		"i" : 
+		[
+			13,
+			30
+		],
+		"k" : "seedwatch/seed/13"
+	},
+	{
+		"i" : 
+		[
+			14,
+			30
+		],
+		"k" : "seedwatch/seed/14"
+	},
+	{
+		"i" : 
+		[
+			15,
+			30
+		],
+		"k" : "seedwatch/seed/15"
+	},
+	{
+		"i" : 
+		[
+			16,
+			30
+		],
+		"k" : "seedwatch/seed/16"
+	},
+	{
+		"i" : 
+		[
+			17,
+			30
+		],
+		"k" : "seedwatch/seed/17"
+	},
+	{
+		"i" : 
+		[
+			173,
+			30
+		],
+		"k" : "seedwatch/seed/173"
+	},
+	{
+		"i" : 
+		[
+			174,
+			30
+		],
+		"k" : "seedwatch/seed/174"
+	},
+	{
+		"i" : 
+		[
+			175,
+			30
+		],
+		"k" : "seedwatch/seed/175"
+	},
+	{
+		"i" : 
+		[
+			176,
+			30
+		],
+		"k" : "seedwatch/seed/176"
+	},
+	{
+		"i" : 
+		[
+			177,
+			30
+		],
+		"k" : "seedwatch/seed/177"
+	},
+	{
+		"i" : 
+		[
+			178,
+			30
+		],
+		"k" : "seedwatch/seed/178"
+	},
+	{
+		"i" : 
+		[
+			179,
+			30
+		],
+		"k" : "seedwatch/seed/179"
+	},
+	{
+		"i" : 
+		[
+			18,
+			30
+		],
+		"k" : "seedwatch/seed/18"
+	},
+	{
+		"i" : 
+		[
+			181,
+			30
+		],
+		"k" : "seedwatch/seed/181"
+	},
+	{
+		"i" : 
+		[
+			182,
+			30
+		],
+		"k" : "seedwatch/seed/182"
+	},
+	{
+		"i" : 
+		[
+			183,
+			30
+		],
+		"k" : "seedwatch/seed/183"
+	},
+	{
+		"i" : 
+		[
+			185,
+			30
+		],
+		"k" : "seedwatch/seed/185"
+	},
+	{
+		"i" : 
+		[
+			186,
+			30
+		],
+		"k" : "seedwatch/seed/186"
+	},
+	{
+		"i" : 
+		[
+			187,
+			30
+		],
+		"k" : "seedwatch/seed/187"
+	},
+	{
+		"i" : 
+		[
+			188,
+			30
+		],
+		"k" : "seedwatch/seed/188"
+	},
+	{
+		"i" : 
+		[
+			189,
+			30
+		],
+		"k" : "seedwatch/seed/189"
+	},
+	{
+		"i" : 
+		[
+			19,
+			30
+		],
+		"k" : "seedwatch/seed/19"
+	},
+	{
+		"i" : 
+		[
+			190,
+			30
+		],
+		"k" : "seedwatch/seed/190"
+	},
+	{
+		"i" : 
+		[
+			191,
+			30
+		],
+		"k" : "seedwatch/seed/191"
+	},
+	{
+		"i" : 
+		[
+			192,
+			30
+		],
+		"k" : "seedwatch/seed/192"
+	},
+	{
+		"i" : 
+		[
+			193,
+			30
+		],
+		"k" : "seedwatch/seed/193"
+	},
+	{
+		"i" : 
+		[
+			2,
+			30
+		],
+		"k" : "seedwatch/seed/2"
+	},
+	{
+		"i" : 
+		[
+			20,
+			30
+		],
+		"k" : "seedwatch/seed/20"
+	},
+	{
+		"i" : 
+		[
+			21,
+			30
+		],
+		"k" : "seedwatch/seed/21"
+	},
+	{
+		"i" : 
+		[
+			22,
+			30
+		],
+		"k" : "seedwatch/seed/22"
+	},
+	{
+		"i" : 
+		[
+			23,
+			30
+		],
+		"k" : "seedwatch/seed/23"
+	},
+	{
+		"i" : 
+		[
+			24,
+			30
+		],
+		"k" : "seedwatch/seed/24"
+	},
+	{
+		"i" : 
+		[
+			25,
+			30
+		],
+		"k" : "seedwatch/seed/25"
+	},
+	{
+		"i" : 
+		[
+			26,
+			30
+		],
+		"k" : "seedwatch/seed/26"
+	},
+	{
+		"i" : 
+		[
+			27,
+			30
+		],
+		"k" : "seedwatch/seed/27"
+	},
+	{
+		"i" : 
+		[
+			28,
+			30
+		],
+		"k" : "seedwatch/seed/28"
+	},
+	{
+		"i" : 
+		[
+			29,
+			30
+		],
+		"k" : "seedwatch/seed/29"
+	},
+	{
+		"i" : 
+		[
+			3,
+			30
+		],
+		"k" : "seedwatch/seed/3"
+	},
+	{
+		"i" : 
+		[
+			30,
+			30
+		],
+		"k" : "seedwatch/seed/30"
+	},
+	{
+		"i" : 
+		[
+			31,
+			30
+		],
+		"k" : "seedwatch/seed/31"
+	},
+	{
+		"i" : 
+		[
+			32,
+			30
+		],
+		"k" : "seedwatch/seed/32"
+	},
+	{
+		"i" : 
+		[
+			33,
+			30
+		],
+		"k" : "seedwatch/seed/33"
+	},
+	{
+		"i" : 
+		[
+			34,
+			30
+		],
+		"k" : "seedwatch/seed/34"
+	},
+	{
+		"i" : 
+		[
+			35,
+			30
+		],
+		"k" : "seedwatch/seed/35"
+	},
+	{
+		"i" : 
+		[
+			36,
+			30
+		],
+		"k" : "seedwatch/seed/36"
+	},
+	{
+		"i" : 
+		[
+			37,
+			30
+		],
+		"k" : "seedwatch/seed/37"
+	},
+	{
+		"i" : 
+		[
+			38,
+			30
+		],
+		"k" : "seedwatch/seed/38"
+	},
+	{
+		"i" : 
+		[
+			39,
+			30
+		],
+		"k" : "seedwatch/seed/39"
+	},
+	{
+		"i" : 
+		[
+			4,
+			30
+		],
+		"k" : "seedwatch/seed/4"
+	},
+	{
+		"i" : 
+		[
+			40,
+			30
+		],
+		"k" : "seedwatch/seed/40"
+	},
+	{
+		"i" : 
+		[
+			41,
+			30
+		],
+		"k" : "seedwatch/seed/41"
+	},
+	{
+		"i" : 
+		[
+			42,
+			30
+		],
+		"k" : "seedwatch/seed/42"
+	},
+	{
+		"i" : 
+		[
+			43,
+			30
+		],
+		"k" : "seedwatch/seed/43"
+	},
+	{
+		"i" : 
+		[
+			44,
+			30
+		],
+		"k" : "seedwatch/seed/44"
+	},
+	{
+		"i" : 
+		[
+			45,
+			30
+		],
+		"k" : "seedwatch/seed/45"
+	},
+	{
+		"i" : 
+		[
+			46,
+			30
+		],
+		"k" : "seedwatch/seed/46"
+	},
+	{
+		"i" : 
+		[
+			47,
+			30
+		],
+		"k" : "seedwatch/seed/47"
+	},
+	{
+		"i" : 
+		[
+			48,
+			30
+		],
+		"k" : "seedwatch/seed/48"
+	},
+	{
+		"i" : 
+		[
+			49,
+			30
+		],
+		"k" : "seedwatch/seed/49"
+	},
+	{
+		"i" : 
+		[
+			5,
+			30
+		],
+		"k" : "seedwatch/seed/5"
+	},
+	{
+		"i" : 
+		[
+			50,
+			30
+		],
+		"k" : "seedwatch/seed/50"
+	},
+	{
+		"i" : 
+		[
+			51,
+			30
+		],
+		"k" : "seedwatch/seed/51"
+	},
+	{
+		"i" : 
+		[
+			52,
+			30
+		],
+		"k" : "seedwatch/seed/52"
+	},
+	{
+		"i" : 
+		[
+			53,
+			30
+		],
+		"k" : "seedwatch/seed/53"
+	},
+	{
+		"i" : 
+		[
+			54,
+			30
+		],
+		"k" : "seedwatch/seed/54"
+	},
+	{
+		"i" : 
+		[
+			55,
+			30
+		],
+		"k" : "seedwatch/seed/55"
+	},
+	{
+		"i" : 
+		[
+			56,
+			30
+		],
+		"k" : "seedwatch/seed/56"
+	},
+	{
+		"i" : 
+		[
+			57,
+			30
+		],
+		"k" : "seedwatch/seed/57"
+	},
+	{
+		"i" : 
+		[
+			58,
+			30
+		],
+		"k" : "seedwatch/seed/58"
+	},
+	{
+		"i" : 
+		[
+			59,
+			30
+		],
+		"k" : "seedwatch/seed/59"
+	},
+	{
+		"i" : 
+		[
+			6,
+			30
+		],
+		"k" : "seedwatch/seed/6"
+	},
+	{
+		"i" : 
+		[
+			60,
+			30
+		],
+		"k" : "seedwatch/seed/60"
+	},
+	{
+		"i" : 
+		[
+			61,
+			30
+		],
+		"k" : "seedwatch/seed/61"
+	},
+	{
+		"i" : 
+		[
+			62,
+			30
+		],
+		"k" : "seedwatch/seed/62"
+	},
+	{
+		"i" : 
+		[
+			63,
+			30
+		],
+		"k" : "seedwatch/seed/63"
+	},
+	{
+		"i" : 
+		[
+			64,
+			30
+		],
+		"k" : "seedwatch/seed/64"
+	},
+	{
+		"i" : 
+		[
+			65,
+			30
+		],
+		"k" : "seedwatch/seed/65"
+	},
+	{
+		"i" : 
+		[
+			66,
+			30
+		],
+		"k" : "seedwatch/seed/66"
+	},
+	{
+		"i" : 
+		[
+			67,
+			30
+		],
+		"k" : "seedwatch/seed/67"
+	},
+	{
+		"i" : 
+		[
+			68,
+			30
+		],
+		"k" : "seedwatch/seed/68"
+	},
+	{
+		"i" : 
+		[
+			69,
+			30
+		],
+		"k" : "seedwatch/seed/69"
+	},
+	{
+		"i" : 
+		[
+			7,
+			30
+		],
+		"k" : "seedwatch/seed/7"
+	},
+	{
+		"i" : 
+		[
+			70,
+			30
+		],
+		"k" : "seedwatch/seed/70"
+	},
+	{
+		"i" : 
+		[
+			71,
+			30
+		],
+		"k" : "seedwatch/seed/71"
+	},
+	{
+		"i" : 
+		[
+			72,
+			30
+		],
+		"k" : "seedwatch/seed/72"
+	},
+	{
+		"i" : 
+		[
+			73,
+			30
+		],
+		"k" : "seedwatch/seed/73"
+	},
+	{
+		"i" : 
+		[
+			74,
+			30
+		],
+		"k" : "seedwatch/seed/74"
+	},
+	{
+		"i" : 
+		[
+			75,
+			30
+		],
+		"k" : "seedwatch/seed/75"
+	},
+	{
+		"i" : 
+		[
+			76,
+			30
+		],
+		"k" : "seedwatch/seed/76"
+	},
+	{
+		"i" : 
+		[
+			77,
+			30
+		],
+		"k" : "seedwatch/seed/77"
+	},
+	{
+		"i" : 
+		[
+			78,
+			30
+		],
+		"k" : "seedwatch/seed/78"
+	},
+	{
+		"i" : 
+		[
+			79,
+			30
+		],
+		"k" : "seedwatch/seed/79"
+	},
+	{
+		"i" : 
+		[
+			8,
+			30
+		],
+		"k" : "seedwatch/seed/8"
+	},
+	{
+		"i" : 
+		[
+			80,
+			30
+		],
+		"k" : "seedwatch/seed/80"
+	},
+	{
+		"i" : 
+		[
+			81,
+			30
+		],
+		"k" : "seedwatch/seed/81"
+	},
+	{
+		"i" : 
+		[
+			82,
+			30
+		],
+		"k" : "seedwatch/seed/82"
+	},
+	{
+		"i" : 
+		[
+			83,
+			30
+		],
+		"k" : "seedwatch/seed/83"
+	},
+	{
+		"i" : 
+		[
+			84,
+			30
+		],
+		"k" : "seedwatch/seed/84"
+	},
+	{
+		"i" : 
+		[
+			85,
+			30
+		],
+		"k" : "seedwatch/seed/85"
+	},
+	{
+		"i" : 
+		[
+			86,
+			30
+		],
+		"k" : "seedwatch/seed/86"
+	},
+	{
+		"i" : 
+		[
+			87,
+			30
+		],
+		"k" : "seedwatch/seed/87"
+	},
+	{
+		"i" : 
+		[
+			88,
+			30
+		],
+		"k" : "seedwatch/seed/88"
+	},
+	{
+		"i" : 
+		[
+			89,
+			30
+		],
+		"k" : "seedwatch/seed/89"
+	},
+	{
+		"i" : 
+		[
+			9,
+			30
+		],
+		"k" : "seedwatch/seed/9"
+	},
+	{
+		"i" : 
+		[
+			90,
+			30
+		],
+		"k" : "seedwatch/seed/90"
+	},
+	{
+		"i" : 
+		[
+			0,
+			1
+		],
+		"k" : "suspendmanager/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			1
+		],
+		"k" : "tailor/config"
+	},
+	{
+		"i" : 
+		[
+			0,
+			100
+		],
+		"k" : "timestream/config"
+	},
+	{
+		"i" : 
+		[
+			0
+		],
+		"k" : "work-now/config"
+	}
+]
